@@ -1,0 +1,14 @@
+/Users/palashbairagi/Desktop/brewery-backend/bin/Debug/netcoreapp2.1/brewery-backend.deps.json
+/Users/palashbairagi/Desktop/brewery-backend/bin/Debug/netcoreapp2.1/brewery-backend.runtimeconfig.json
+/Users/palashbairagi/Desktop/brewery-backend/bin/Debug/netcoreapp2.1/brewery-backend.runtimeconfig.dev.json
+/Users/palashbairagi/Desktop/brewery-backend/bin/Debug/netcoreapp2.1/brewery-backend.dll
+/Users/palashbairagi/Desktop/brewery-backend/bin/Debug/netcoreapp2.1/brewery-backend.pdb
+/Users/palashbairagi/Desktop/brewery-backend/obj/Debug/netcoreapp2.1/brewery-backend.csprojAssemblyReference.cache
+/Users/palashbairagi/Desktop/brewery-backend/obj/Debug/netcoreapp2.1/brewery-backend.csproj.CoreCompileInputs.cache
+/Users/palashbairagi/Desktop/brewery-backend/obj/Debug/netcoreapp2.1/brewery-backend.RazorAssemblyInfo.cache
+/Users/palashbairagi/Desktop/brewery-backend/obj/Debug/netcoreapp2.1/brewery-backend.RazorAssemblyInfo.cs
+/Users/palashbairagi/Desktop/brewery-backend/obj/Debug/netcoreapp2.1/brewery-backend.AssemblyInfoInputs.cache
+/Users/palashbairagi/Desktop/brewery-backend/obj/Debug/netcoreapp2.1/brewery-backend.AssemblyInfo.cs
+/Users/palashbairagi/Desktop/brewery-backend/obj/Debug/netcoreapp2.1/brewery-backend.RazorTargetAssemblyInfo.cache
+/Users/palashbairagi/Desktop/brewery-backend/obj/Debug/netcoreapp2.1/brewery-backend.dll
+/Users/palashbairagi/Desktop/brewery-backend/obj/Debug/netcoreapp2.1/brewery-backend.pdb
